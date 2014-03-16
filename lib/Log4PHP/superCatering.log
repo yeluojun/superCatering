@@ -1,0 +1,25 @@
+03/16/14 16:01:41,245 [12180] INFO dbConnect - start connect database
+03/16/14 16:01:41,249 [12180] INFO dbConnect - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/16/14 16:01:41,251 [12180] INFO dbConnect - db user name:superCatering
+03/16/14 16:01:41,253 [12180] INFO dbConnect - db user pwd:4superCatering
+03/16/14 16:01:41,259 [12180] INFO dbConnect - finish connect database
+03/16/14 16:01:53,276 [3600] INFO dbConnect - start connect database
+03/16/14 16:01:53,278 [3600] INFO dbConnect - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/16/14 16:01:53,278 [3600] INFO dbConnect - db user name:superCatering
+03/16/14 16:01:53,278 [3600] INFO dbConnect - db user pwd:4superCatering
+03/16/14 16:01:53,281 [3600] INFO dbConnect - finish connect database
+03/16/14 16:01:58,411 [4500] INFO dbConnect - start connect database
+03/16/14 16:01:58,412 [4500] INFO dbConnect - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/16/14 16:01:58,413 [4500] INFO dbConnect - db user name:superCatering
+03/16/14 16:01:58,413 [4500] INFO dbConnect - db user pwd:4superCatering
+03/16/14 16:01:58,416 [4500] INFO dbConnect - finish connect database
+03/16/14 16:02:24,963 [5544] INFO dbConnect - start connect database
+03/16/14 16:02:24,964 [5544] INFO dbConnect - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/16/14 16:02:24,965 [5544] INFO dbConnect - db user name:superCatering
+03/16/14 16:02:24,965 [5544] INFO dbConnect - db user pwd:4superCatering
+03/16/14 16:02:24,968 [5544] INFO dbConnect - finish connect database
+03/16/14 16:02:40,182 [11340] INFO dbConnect - start connect database
+03/16/14 16:02:40,183 [11340] INFO dbConnect - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/16/14 16:02:40,184 [11340] INFO dbConnect - db user name:superCatering
+03/16/14 16:02:40,184 [11340] INFO dbConnect - db user pwd:4superCatering
+03/16/14 16:02:40,187 [11340] INFO dbConnect - finish connect database
