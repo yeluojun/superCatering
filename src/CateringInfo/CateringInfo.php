@@ -27,7 +27,7 @@ function getCateringInfo($arg_CateringId,$arg_userPhoneNum){
  * @param $arg_userId request User id
  * @return  {code":0,"msg":"收藏成功","data":array(),"status":"Success"}
  */
-function PhoneCallCount($arg_CateringId,$arg_userId){
+function CollectCatering($arg_CateringId,$arg_userId){
     try{
 
     }catch (Exception $e){
