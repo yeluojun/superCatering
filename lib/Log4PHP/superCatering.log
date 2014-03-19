@@ -1,25 +1,1205 @@
-03/16/14 16:01:41,245 [12180] INFO dbConnect - start connect database
-03/16/14 16:01:41,249 [12180] INFO dbConnect - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
-03/16/14 16:01:41,251 [12180] INFO dbConnect - db user name:superCatering
-03/16/14 16:01:41,253 [12180] INFO dbConnect - db user pwd:4superCatering
-03/16/14 16:01:41,259 [12180] INFO dbConnect - finish connect database
-03/16/14 16:01:53,276 [3600] INFO dbConnect - start connect database
-03/16/14 16:01:53,278 [3600] INFO dbConnect - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
-03/16/14 16:01:53,278 [3600] INFO dbConnect - db user name:superCatering
-03/16/14 16:01:53,278 [3600] INFO dbConnect - db user pwd:4superCatering
-03/16/14 16:01:53,281 [3600] INFO dbConnect - finish connect database
-03/16/14 16:01:58,411 [4500] INFO dbConnect - start connect database
-03/16/14 16:01:58,412 [4500] INFO dbConnect - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
-03/16/14 16:01:58,413 [4500] INFO dbConnect - db user name:superCatering
-03/16/14 16:01:58,413 [4500] INFO dbConnect - db user pwd:4superCatering
-03/16/14 16:01:58,416 [4500] INFO dbConnect - finish connect database
-03/16/14 16:02:24,963 [5544] INFO dbConnect - start connect database
-03/16/14 16:02:24,964 [5544] INFO dbConnect - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
-03/16/14 16:02:24,965 [5544] INFO dbConnect - db user name:superCatering
-03/16/14 16:02:24,965 [5544] INFO dbConnect - db user pwd:4superCatering
-03/16/14 16:02:24,968 [5544] INFO dbConnect - finish connect database
-03/16/14 16:02:40,182 [11340] INFO dbConnect - start connect database
-03/16/14 16:02:40,183 [11340] INFO dbConnect - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
-03/16/14 16:02:40,184 [11340] INFO dbConnect - db user name:superCatering
-03/16/14 16:02:40,184 [11340] INFO dbConnect - db user pwd:4superCatering
-03/16/14 16:02:40,187 [11340] INFO dbConnect - finish connect database
+03/19/14 02:01:32,886 [7488] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 02:01:32,904 [7488] ERROR CateringInfoLog - 抛出异常:Array to string conversion
+03/19/14 02:01:32,904 [7488] ERROR CateringInfoLog - code:100001msg:系统异常data:[]status:Error
+03/19/14 02:01:32,904 [7488] INFO CateringInfoLog - code:100001msg:系统异常data:[]status:Error
+03/19/14 02:02:04,527 [8108] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 02:02:04,546 [8108] ERROR CateringInfoLog - 抛出异常:Array to string conversion
+03/19/14 02:02:04,547 [8108] ERROR CateringInfoLog - code:100001msg:系统异常data:[]status:Error
+03/19/14 02:02:04,547 [8108] INFO CateringInfoLog - code:100001msg:系统异常data:[]status:Error
+03/19/14 02:02:43,450 [11824] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 02:02:43,452 [11824] INFO CateringInfoLog - 
+03/19/14 02:02:43,453 [11824] WARN CateringInfoLog - code:1msg:操作失败!data:""status:Warn
+03/19/14 02:02:43,453 [11824] INFO CateringInfoLog - code:1msg:操作失败!data:""status:Warn
+03/19/14 02:02:43,453 [11824] WARN CateringInfoLog - code:404msg:传入路由为空data:""status:Warn
+03/19/14 02:02:43,454 [11824] INFO CateringInfoLog - code:404msg:传入路由为空data:""status:Warn
+03/19/14 02:03:11,477 [9516] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 02:03:11,479 [9516] INFO CateringInfoLog - 
+03/19/14 02:03:11,479 [9516] WARN CateringInfoLog - code:1msg:操作失败!data:""status:Warn
+03/19/14 02:03:11,479 [9516] WARN CateringInfoLog - code:404msg:传入路由为空data:""status:Warn
+03/19/14 02:03:54,526 [11244] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 02:03:54,527 [11244] INFO CateringInfoLog - 
+03/19/14 02:03:54,546 [11244] ERROR CateringInfoLog - 抛出异常:Array to string conversion
+03/19/14 02:04:05,476 [10944] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 02:04:05,477 [10944] INFO CateringInfoLog - 
+03/19/14 02:04:05,477 [10944] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 02:04:05,477 [10944] WARN CateringInfoLog - code:404msg:传入路由为空data:[]status:Warn
+03/19/14 08:39:35,084 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 08:39:35,142 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo',
+)
+03/19/14 08:39:35,165 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:40:06,311 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 08:40:06,320 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:40:06,329 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:40:06,336 [6848] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 08:40:06,395 [6848] INFO CateringInfoLog - 传入参数:Array
+03/19/14 08:40:06,403 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:40:06,411 [6848] INFO CateringInfoLog - start connect database
+03/19/14 08:40:06,418 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 08:40:06,425 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 08:40:06,433 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 08:40:06,479 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 08:40:06,525 [6848] ERROR CateringInfoLog - 抛出异常:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ID,NAME,PHONE,URL,MARK' at line 1
+03/19/14 08:40:06,533 [6848] ERROR CateringInfoLog - code:100001msg:系统异常data:[]status:Error
+03/19/14 08:41:41,930 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 08:41:41,940 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:41:41,949 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:41:41,957 [6848] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 08:41:41,966 [6848] INFO CateringInfoLog - 传入参数:Array
+03/19/14 08:41:41,974 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:41:41,981 [6848] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 08:41:41,989 [6848] INFO CateringInfoLog - start connect database
+03/19/14 08:41:41,997 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 08:41:42,004 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 08:41:42,011 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 08:41:42,021 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 08:41:42,031 [6848] ERROR CateringInfoLog - 抛出异常:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ID,NAME,PHONE,URL,MARK' at line 1
+03/19/14 08:41:42,039 [6848] ERROR CateringInfoLog - code:100001msg:系统异常data:[]status:Error
+03/19/14 08:41:51,040 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 08:41:51,048 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:41:51,057 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:41:51,064 [6848] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 08:41:51,073 [6848] INFO CateringInfoLog - 传入参数:Array
+03/19/14 08:41:51,080 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:41:51,088 [6848] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 08:41:51,095 [6848] INFO CateringInfoLog - start connect database
+03/19/14 08:41:51,103 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 08:41:51,110 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 08:41:51,118 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 08:41:51,128 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 08:41:51,138 [6848] ERROR CateringInfoLog - 抛出异常:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ID,NAME,PHONE,URL,MARK' at line 1
+03/19/14 08:41:51,145 [6848] ERROR CateringInfoLog - code:100001msg:系统异常data:[]status:Error
+03/19/14 08:44:20,014 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 08:44:20,023 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:44:20,031 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:44:20,039 [6848] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 08:44:20,047 [6848] INFO CateringInfoLog - 传入参数:Array
+03/19/14 08:44:20,055 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:44:20,063 [6848] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 08:44:20,071 [6848] INFO CateringInfoLog - start connect database
+03/19/14 08:44:20,078 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 08:44:20,085 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 08:44:20,093 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 08:44:20,113 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 08:44:20,141 [6848] INFO CateringInfoLog - code:0msg:获取成功data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null}]status:Success
+03/19/14 08:45:30,841 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 08:45:30,849 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:45:30,859 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:45:30,866 [6848] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 08:45:30,874 [6848] INFO CateringInfoLog - 传入参数:{"route":"CateringInfo\/getAllCateringInfo"}
+03/19/14 08:45:30,883 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:45:30,890 [6848] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 08:45:30,898 [6848] INFO CateringInfoLog - start connect database
+03/19/14 08:45:30,906 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 08:45:30,913 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 08:45:30,921 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 08:45:30,931 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 08:45:30,941 [6848] INFO CateringInfoLog - code:0msg:获取成功data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null}]status:Success
+03/19/14 08:46:05,325 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 08:46:05,334 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:46:05,344 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:46:05,351 [6848] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 08:46:05,359 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:46:05,368 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:46:05,377 [6848] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 08:46:05,385 [6848] INFO CateringInfoLog - start connect database
+03/19/14 08:46:05,392 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 08:46:05,400 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 08:46:05,407 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 08:46:05,418 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 08:46:05,429 [6848] INFO CateringInfoLog - code:0msg:获取成功data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null}]status:Success
+03/19/14 08:46:34,778 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 08:46:34,786 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:46:34,795 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:46:34,802 [6848] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 08:46:34,810 [6848] INFO CateringInfoLog - 传入参数：
+03/19/14 08:46:34,820 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:46:34,829 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:46:34,838 [6848] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 08:46:34,846 [6848] INFO CateringInfoLog - start connect database
+03/19/14 08:46:34,855 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 08:46:34,863 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 08:46:34,871 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 08:46:34,881 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 08:46:34,891 [6848] INFO CateringInfoLog - code:0msg:获取成功data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null}]status:Success
+03/19/14 08:47:20,213 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 08:47:20,221 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:47:20,230 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:47:20,238 [6848] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 08:47:20,245 [6848] INFO CateringInfoLog - 传入参数：
+03/19/14 08:47:20,253 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:47:20,261 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:47:20,269 [6848] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 08:47:20,277 [6848] INFO CateringInfoLog - start connect database
+03/19/14 08:47:20,286 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 08:47:20,294 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 08:47:20,301 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 08:47:20,321 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 08:47:20,331 [6848] INFO CateringInfoLog - code:0msg:获取成功data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null}]status:Success
+03/19/14 08:49:35,878 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 08:49:35,886 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:49:35,895 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:49:35,902 [6848] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 08:49:35,911 [6848] INFO CateringInfoLog - 传入参数：
+03/19/14 08:49:35,919 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:49:35,928 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:49:35,936 [6848] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 08:49:35,944 [6848] INFO CateringInfoLog - start connect database
+03/19/14 08:49:35,951 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 08:49:35,959 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 08:49:35,966 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 08:49:35,977 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 08:49:35,987 [6848] INFO CateringInfoLog - code:0msg:获取成功data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":"1"},{"ID":"2","NAME":"\u9ea6\u5f53\u52b3","PHONE":"15920455682","URL":null,"MARK":"2"}]status:Success
+03/19/14 08:50:00,800 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 08:50:00,809 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:50:00,817 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:50:00,825 [6848] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 08:50:00,832 [6848] INFO CateringInfoLog - 传入参数：
+03/19/14 08:50:00,840 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 08:50:00,849 [6848] WARN CateringInfoLog - code:1msg:操作失败!data:[]status:Warn
+03/19/14 08:50:00,857 [6848] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 08:50:00,865 [6848] INFO CateringInfoLog - start connect database
+03/19/14 08:50:00,873 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 08:50:00,880 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 08:50:00,888 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 08:50:00,898 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 08:50:00,908 [6848] INFO CateringInfoLog - code:0msg:获取成功data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":"1"},{"ID":"2","NAME":"\u9ea6\u5f53\u52b3","PHONE":"15920455682","URL":null,"MARK":"2"}]status:Success
+03/19/14 09:01:45,031 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 09:01:45,039 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 09:01:45,048 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 09:01:45,055 [6848] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 09:01:45,064 [6848] INFO CateringInfoLog - 传入参数：
+03/19/14 09:01:45,071 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 09:01:45,080 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 09:01:45,088 [6848] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 09:01:45,095 [6848] INFO CateringInfoLog - start connect database
+03/19/14 09:01:45,102 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 09:01:45,110 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 09:01:45,118 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 09:01:45,128 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 09:01:45,138 [6848] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":"1"},{"ID":"2","NAME":"\u9ea6\u5f53\u52b3","PHONE":"15920455682","URL":null,"MARK":"2"}],status:Success
+03/19/14 17:18:38,156 [44] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 17:18:38,167 [44] INFO CateringInfoLog - 
+03/19/14 17:18:38,168 [44] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:18:38,168 [44] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 17:18:38,317 [44] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 17:18:38,318 [44] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 17:18:38,318 [44] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:18:38,318 [44] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 17:18:38,319 [44] INFO CateringInfoLog - 传入参数：
+03/19/14 17:18:38,319 [44] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 17:18:38,319 [44] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:18:38,320 [44] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 17:18:38,320 [44] INFO CateringInfoLog - start connect database
+03/19/14 17:18:38,320 [44] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 17:18:38,320 [44] INFO CateringInfoLog - db user name:superCatering
+03/19/14 17:18:38,321 [44] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 17:18:38,324 [44] INFO CateringInfoLog - finish connect database
+03/19/14 17:18:38,333 [44] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":"1"},{"ID":"2","NAME":"\u9ea6\u5f53\u52b3","PHONE":"15920455682","URL":null,"MARK":"2"}],status:Success
+03/19/14 17:18:46,272 [9948] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 17:18:46,273 [9948] INFO CateringInfoLog - 
+03/19/14 17:18:46,274 [9948] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:18:46,274 [9948] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 17:18:46,292 [9948] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 17:18:46,292 [9948] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 17:18:46,293 [9948] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:18:46,293 [9948] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 17:18:46,293 [9948] INFO CateringInfoLog - 传入参数：
+03/19/14 17:18:46,293 [9948] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 17:18:46,294 [9948] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:18:46,294 [9948] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 17:18:46,294 [9948] INFO CateringInfoLog - start connect database
+03/19/14 17:18:46,295 [9948] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 17:18:46,295 [9948] INFO CateringInfoLog - db user name:superCatering
+03/19/14 17:18:46,295 [9948] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 17:18:46,298 [9948] INFO CateringInfoLog - finish connect database
+03/19/14 17:18:46,300 [9948] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":"1"},{"ID":"2","NAME":"\u9ea6\u5f53\u52b3","PHONE":"15920455682","URL":null,"MARK":"2"}],status:Success
+03/19/14 17:21:06,058 [8856] INFO CateringInfoLog - start connect database
+03/19/14 17:21:06,060 [8856] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 17:21:06,060 [8856] INFO CateringInfoLog - db user name:superCatering
+03/19/14 17:21:06,061 [8856] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 17:21:06,064 [8856] INFO CateringInfoLog - finish connect database
+03/19/14 17:21:06,120 [8856] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 17:21:06,121 [8856] INFO CateringInfoLog - 
+03/19/14 17:21:06,121 [8856] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:21:06,121 [8856] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 17:21:06,138 [8856] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 17:21:06,138 [8856] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 17:21:06,138 [8856] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:21:06,139 [8856] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 17:21:06,139 [8856] INFO CateringInfoLog - 传入参数：
+03/19/14 17:21:06,139 [8856] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 17:21:06,140 [8856] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:21:06,140 [8856] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 17:21:06,140 [8856] INFO CateringInfoLog - start connect database
+03/19/14 17:21:06,140 [8856] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 17:21:06,141 [8856] INFO CateringInfoLog - db user name:superCatering
+03/19/14 17:21:06,141 [8856] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 17:21:06,144 [8856] INFO CateringInfoLog - finish connect database
+03/19/14 17:21:06,145 [8856] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":"1"},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455681","URL":null,"MARK":"2"}],status:Success
+03/19/14 17:21:58,548 [5688] INFO CateringInfoLog - start connect database
+03/19/14 17:21:58,549 [5688] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 17:21:58,549 [5688] INFO CateringInfoLog - db user name:superCatering
+03/19/14 17:21:58,550 [5688] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 17:21:58,552 [5688] INFO CateringInfoLog - finish connect database
+03/19/14 17:22:11,437 [1216] INFO CateringInfoLog - start connect database
+03/19/14 17:22:11,439 [1216] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 17:22:11,439 [1216] INFO CateringInfoLog - db user name:superCatering
+03/19/14 17:22:11,439 [1216] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 17:22:11,443 [1216] INFO CateringInfoLog - finish connect database
+03/19/14 17:22:11,500 [1216] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 17:22:11,501 [1216] INFO CateringInfoLog - 
+03/19/14 17:22:11,501 [1216] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:22:11,501 [1216] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 17:22:11,518 [1216] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 17:22:11,518 [1216] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 17:22:11,518 [1216] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:22:11,519 [1216] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 17:22:11,519 [1216] INFO CateringInfoLog - 传入参数：
+03/19/14 17:22:11,519 [1216] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 17:22:11,520 [1216] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:22:11,520 [1216] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 17:22:11,520 [1216] INFO CateringInfoLog - start connect database
+03/19/14 17:22:11,520 [1216] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 17:22:11,521 [1216] INFO CateringInfoLog - db user name:superCatering
+03/19/14 17:22:11,521 [1216] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 17:22:11,524 [1216] INFO CateringInfoLog - finish connect database
+03/19/14 17:22:11,526 [1216] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":"1"},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"}],status:Success
+03/19/14 17:22:33,235 [4484] INFO CateringInfoLog - start connect database
+03/19/14 17:22:33,237 [4484] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 17:22:33,237 [4484] INFO CateringInfoLog - db user name:superCatering
+03/19/14 17:22:33,237 [4484] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 17:22:33,240 [4484] INFO CateringInfoLog - finish connect database
+03/19/14 17:22:33,325 [4484] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 17:22:33,326 [4484] INFO CateringInfoLog - 
+03/19/14 17:22:33,326 [4484] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:22:33,327 [4484] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 17:22:33,343 [4484] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 17:22:33,343 [4484] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 17:22:33,343 [4484] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:22:33,344 [4484] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 17:22:33,344 [4484] INFO CateringInfoLog - 传入参数：
+03/19/14 17:22:33,344 [4484] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 17:22:33,345 [4484] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 17:22:33,345 [4484] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 17:22:33,345 [4484] INFO CateringInfoLog - start connect database
+03/19/14 17:22:33,345 [4484] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 17:22:33,346 [4484] INFO CateringInfoLog - db user name:superCatering
+03/19/14 17:22:33,346 [4484] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 17:22:33,349 [4484] INFO CateringInfoLog - finish connect database
+03/19/14 17:22:33,351 [4484] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":"1"},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"}],status:Success
+03/19/14 17:22:33,356 [4484] INFO CateringInfoLog - start connect database
+03/19/14 17:22:33,356 [4484] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 17:22:33,357 [4484] INFO CateringInfoLog - db user name:superCatering
+03/19/14 17:22:33,357 [4484] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 17:22:33,361 [4484] INFO CateringInfoLog - finish connect database
+03/19/14 20:42:38,541 [5704] INFO CateringInfoLog - start connect database
+03/19/14 20:42:38,543 [5704] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 20:42:38,543 [5704] INFO CateringInfoLog - db user name:superCatering
+03/19/14 20:42:38,543 [5704] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 20:42:38,546 [5704] INFO CateringInfoLog - finish connect database
+03/19/14 20:42:38,605 [5704] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 20:42:38,605 [5704] INFO CateringInfoLog - 
+03/19/14 20:42:38,606 [5704] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 20:42:38,606 [5704] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 20:42:38,621 [5704] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 20:42:38,622 [5704] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 20:42:38,622 [5704] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 20:42:38,622 [5704] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 20:42:38,622 [5704] INFO CateringInfoLog - 传入参数：
+03/19/14 20:42:38,623 [5704] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 20:42:38,623 [5704] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 20:42:38,623 [5704] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 20:42:38,624 [5704] INFO CateringInfoLog - start connect database
+03/19/14 20:42:38,624 [5704] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 20:42:38,624 [5704] INFO CateringInfoLog - db user name:superCatering
+03/19/14 20:42:38,624 [5704] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 20:42:38,627 [5704] INFO CateringInfoLog - finish connect database
+03/19/14 20:42:38,628 [5704] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":"1"},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"}],status:Success
+03/19/14 20:42:38,633 [5704] INFO CateringInfoLog - start connect database
+03/19/14 20:42:38,634 [5704] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 20:42:38,634 [5704] INFO CateringInfoLog - db user name:superCatering
+03/19/14 20:42:38,634 [5704] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 20:42:38,636 [5704] INFO CateringInfoLog - finish connect database
+03/19/14 23:11:23,297 [10904] INFO CateringInfoLog - start connect database
+03/19/14 23:11:23,299 [10904] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:11:23,299 [10904] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:11:23,300 [10904] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:11:23,302 [10904] INFO CateringInfoLog - finish connect database
+03/19/14 23:11:23,369 [10904] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:11:23,370 [10904] INFO CateringInfoLog - 
+03/19/14 23:11:23,370 [10904] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:11:23,370 [10904] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 23:11:23,386 [10904] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:11:23,386 [10904] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:11:23,386 [10904] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:11:23,387 [10904] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 23:11:23,387 [10904] INFO CateringInfoLog - 传入参数：
+03/19/14 23:11:23,388 [10904] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:11:23,388 [10904] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:11:23,388 [10904] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 23:11:23,389 [10904] INFO CateringInfoLog - start connect database
+03/19/14 23:11:23,389 [10904] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:11:23,389 [10904] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:11:23,390 [10904] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:11:23,392 [10904] INFO CateringInfoLog - finish connect database
+03/19/14 23:11:23,393 [10904] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"}],status:Success
+03/19/14 23:12:16,989 [3752] INFO CateringInfoLog - start connect database
+03/19/14 23:12:16,991 [3752] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:12:16,991 [3752] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:12:16,991 [3752] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:12:16,994 [3752] INFO CateringInfoLog - finish connect database
+03/19/14 23:12:17,050 [3752] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:12:17,050 [3752] INFO CateringInfoLog - 
+03/19/14 23:12:17,051 [3752] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:12:17,051 [3752] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 23:12:17,067 [3752] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:12:17,067 [3752] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:12:17,067 [3752] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:12:17,068 [3752] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 23:12:17,068 [3752] INFO CateringInfoLog - 传入参数：
+03/19/14 23:12:17,068 [3752] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:12:17,068 [3752] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:12:17,069 [3752] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 23:12:17,069 [3752] INFO CateringInfoLog - start connect database
+03/19/14 23:12:17,069 [3752] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:12:17,070 [3752] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:12:17,070 [3752] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:12:17,072 [3752] INFO CateringInfoLog - finish connect database
+03/19/14 23:12:17,074 [3752] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"}],status:Success
+03/19/14 23:12:17,080 [3752] INFO CateringInfoLog - start connect database
+03/19/14 23:12:17,080 [3752] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:12:17,080 [3752] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:12:17,081 [3752] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:12:17,093 [3752] INFO CateringInfoLog - finish connect database
+03/19/14 23:12:17,149 [3752] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:12:17,150 [3752] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:12:17,150 [3752] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:12:17,150 [3752] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:12:17,151 [3752] INFO CateringInfoLog - 传入参数：
+03/19/14 23:12:17,151 [3752] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:12:17,151 [3752] WARN CateringInfoLog - code:3,msg:传入餐厅参数不存在,data:[],status:Warn
+03/19/14 23:15:28,830 [8692] INFO CateringInfoLog - start connect database
+03/19/14 23:15:28,831 [8692] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:15:28,831 [8692] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:15:28,831 [8692] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:15:28,834 [8692] INFO CateringInfoLog - finish connect database
+03/19/14 23:15:28,888 [8692] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:15:28,888 [8692] INFO CateringInfoLog - 
+03/19/14 23:15:28,888 [8692] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:15:28,889 [8692] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 23:15:28,905 [8692] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:15:28,905 [8692] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:15:28,905 [8692] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:15:28,906 [8692] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 23:15:28,906 [8692] INFO CateringInfoLog - 传入参数：
+03/19/14 23:15:28,906 [8692] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:15:28,907 [8692] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:15:28,907 [8692] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM MERCHANT_LIST 
+03/19/14 23:15:28,907 [8692] INFO CateringInfoLog - start connect database
+03/19/14 23:15:28,907 [8692] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:15:28,908 [8692] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:15:28,908 [8692] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:15:28,910 [8692] INFO CateringInfoLog - finish connect database
+03/19/14 23:15:28,911 [8692] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"}],status:Success
+03/19/14 23:15:28,917 [8692] INFO CateringInfoLog - start connect database
+03/19/14 23:15:28,917 [8692] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:15:28,917 [8692] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:15:28,917 [8692] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:15:28,919 [8692] INFO CateringInfoLog - finish connect database
+03/19/14 23:15:28,970 [8692] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:15:28,971 [8692] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:15:28,971 [8692] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:15:28,971 [8692] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:15:28,972 [8692] INFO CateringInfoLog - 传入参数：
+03/19/14 23:15:28,972 [8692] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:15:28,972 [8692] WARN CateringInfoLog - code:3,msg:传入餐厅参数不存在,data:[],status:Warn
+03/19/14 23:15:28,974 [8692] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:15:28,974 [8692] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 1,
+)
+03/19/14 23:15:28,974 [8692] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:15:28,974 [8692] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:15:28,975 [8692] INFO CateringInfoLog - 传入参数：
+03/19/14 23:15:28,975 [8692] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 1,
+)
+03/19/14 23:15:28,975 [8692] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:15:28,976 [8692] INFO CateringInfoLog - start connect database
+03/19/14 23:15:28,976 [8692] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:15:28,976 [8692] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:15:28,976 [8692] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:15:28,988 [8692] INFO CateringInfoLog - finish connect database
+03/19/14 15:19:59,060 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 15:19:59,096 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '1',
+)
+03/19/14 15:19:59,105 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:19:59,113 [6848] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 15:19:59,120 [6848] INFO CateringInfoLog - 传入参数：
+03/19/14 15:19:59,128 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '1',
+)
+03/19/14 15:19:59,136 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:19:59,144 [6848] INFO CateringInfoLog - start connect database
+03/19/14 15:19:59,151 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 15:19:59,159 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 15:19:59,166 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 15:19:59,438 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 15:19:59,447 [6848] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='1'
+03/19/14 15:19:59,487 [6848] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"id":"1","phote":".\/dish_photo\/maixiangji_1.jpg","name":"\u6c49\u5821","price":"1\u5143"},{"id":"2","phote":".\/dish_photo\/maixiangji_2.jpg","name":"\u6c49\u5821","price":"2\u5143"},{"id":"3","phote":".\/dish_photo\/maixiangji_3.jpg","name":"\u6c49\u5821","price":"3\u5143"},{"id":"4","phote":".\/dish_photo\/maixiangji_4.jpg","name":"\u6c49\u5821","price":"4\u5143"},{"id":"5","phote":".\/dish_photo\/maixiangji_5.jpg","name":"\u6c49\u5821","price":"5\u5143"},{"id":"6","phote":".\/dish_photo\/maixiangji_6.jpg","name":"\u6c49\u5821","price":"6\u5143"}],status:Success
+03/19/14 15:32:55,262 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 15:32:55,271 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '2',
+)
+03/19/14 15:32:55,279 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:32:55,288 [6848] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 15:32:55,296 [6848] INFO CateringInfoLog - 传入参数：
+03/19/14 15:32:55,303 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '2',
+)
+03/19/14 15:32:55,312 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:32:55,320 [6848] INFO CateringInfoLog - start connect database
+03/19/14 15:32:55,327 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 15:32:55,334 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 15:32:55,342 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 15:32:55,352 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 15:32:55,360 [6848] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='2'
+03/19/14 15:32:55,369 [6848] WARN CateringInfoLog - code:4,msg:获取菜色列表为空,data:[],status:Success
+03/19/14 15:33:04,461 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 15:33:04,469 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '90002',
+)
+03/19/14 15:33:04,478 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:33:04,486 [6848] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 15:33:04,493 [6848] INFO CateringInfoLog - 传入参数：
+03/19/14 15:33:04,501 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '90002',
+)
+03/19/14 15:33:04,509 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:33:04,518 [6848] INFO CateringInfoLog - start connect database
+03/19/14 15:33:04,525 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 15:33:04,532 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 15:33:04,539 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 15:33:04,550 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 15:33:04,557 [6848] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 15:33:04,567 [6848] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"id":"90001","phote":".\/dish_photo\/maixiangji_90001.","name":"\u82f9\u679c\u6d3e","price":"7\u5143"}],status:Success
+03/19/14 15:40:04,711 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 15:40:04,720 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '90002',
+)
+03/19/14 15:40:04,729 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:40:04,736 [6848] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 15:40:04,744 [6848] INFO CateringInfoLog - 传入参数：
+03/19/14 15:40:04,753 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '90002',
+)
+03/19/14 15:40:04,761 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:40:04,769 [6848] INFO CateringInfoLog - start connect database
+03/19/14 15:40:04,776 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 15:40:04,784 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 15:40:04,791 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 15:40:04,801 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 15:40:04,808 [6848] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 15:40:04,819 [6848] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"id":"90001","phote":".\/dish_photo\/maixiangji_90001.","name":"\u82f9\u679c\u6d3e","price":"7\u5143"}],status:Success
+03/19/14 23:40:09,584 [3556] INFO CateringInfoLog - start connect database
+03/19/14 23:40:09,586 [3556] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:40:09,586 [3556] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:40:09,586 [3556] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:40:09,589 [3556] INFO CateringInfoLog - finish connect database
+03/19/14 23:40:48,468 [12212] INFO CateringInfoLog - start connect database
+03/19/14 23:40:48,470 [12212] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:40:48,470 [12212] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:40:48,470 [12212] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:40:48,473 [12212] INFO CateringInfoLog - finish connect database
+03/19/14 23:40:48,632 [12212] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:40:48,632 [12212] INFO CateringInfoLog - 
+03/19/14 23:40:48,633 [12212] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:40:48,633 [12212] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 23:40:48,650 [12212] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:40:48,650 [12212] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:40:48,650 [12212] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:40:48,651 [12212] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 23:40:48,651 [12212] INFO CateringInfoLog - 传入参数：
+03/19/14 23:40:48,651 [12212] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:40:48,651 [12212] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:40:48,652 [12212] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM  MERCHANT_LIST
+03/19/14 23:40:48,652 [12212] INFO CateringInfoLog - start connect database
+03/19/14 23:40:48,652 [12212] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:40:48,652 [12212] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:40:48,653 [12212] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:40:48,655 [12212] INFO CateringInfoLog - finish connect database
+03/19/14 23:40:48,656 [12212] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"},{"ID":"90002","NAME":"\u82f9\u679c\u5bb6\u56ed","PHONE":"15920455682","URL":null,"MARK":null}],status:Success
+03/19/14 23:42:23,623 [11252] INFO CateringInfoLog - start connect database
+03/19/14 23:42:23,625 [11252] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:42:23,626 [11252] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:42:23,626 [11252] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:42:23,628 [11252] INFO CateringInfoLog - finish connect database
+03/19/14 23:42:23,787 [11252] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:42:23,787 [11252] INFO CateringInfoLog - 
+03/19/14 23:42:23,788 [11252] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:42:23,788 [11252] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 23:42:23,804 [11252] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:42:23,804 [11252] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:42:23,804 [11252] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:42:23,805 [11252] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 23:42:23,805 [11252] INFO CateringInfoLog - 传入参数：
+03/19/14 23:42:23,805 [11252] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:42:23,805 [11252] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:42:23,806 [11252] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM  MERCHANT_LIST
+03/19/14 23:42:23,806 [11252] INFO CateringInfoLog - start connect database
+03/19/14 23:42:23,806 [11252] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:42:23,807 [11252] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:42:23,807 [11252] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:42:23,809 [11252] INFO CateringInfoLog - finish connect database
+03/19/14 23:42:23,810 [11252] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"},{"ID":"90002","NAME":"\u82f9\u679c\u5bb6\u56ed","PHONE":"15920455682","URL":null,"MARK":null}],status:Success
+03/19/14 23:43:01,056 [10492] INFO CateringInfoLog - start connect database
+03/19/14 23:43:01,057 [10492] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:43:01,058 [10492] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:43:01,058 [10492] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:43:01,060 [10492] INFO CateringInfoLog - finish connect database
+03/19/14 23:43:01,218 [10492] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:43:01,218 [10492] INFO CateringInfoLog - 
+03/19/14 23:43:01,219 [10492] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:43:01,219 [10492] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 23:43:01,236 [10492] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:43:01,237 [10492] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:43:01,237 [10492] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:43:01,237 [10492] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 23:43:01,238 [10492] INFO CateringInfoLog - 传入参数：
+03/19/14 23:43:01,238 [10492] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:43:01,238 [10492] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:43:01,239 [10492] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM  MERCHANT_LIST
+03/19/14 23:43:01,239 [10492] INFO CateringInfoLog - start connect database
+03/19/14 23:43:01,239 [10492] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:43:01,239 [10492] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:43:01,240 [10492] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:43:01,253 [10492] INFO CateringInfoLog - finish connect database
+03/19/14 23:43:01,254 [10492] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"},{"ID":"90002","NAME":"\u82f9\u679c\u5bb6\u56ed","PHONE":"15920455682","URL":null,"MARK":null}],status:Success
+03/19/14 23:43:01,262 [10492] INFO CateringInfoLog - start connect database
+03/19/14 23:43:01,262 [10492] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:43:01,262 [10492] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:43:01,262 [10492] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:43:01,265 [10492] INFO CateringInfoLog - finish connect database
+03/19/14 23:43:01,377 [10492] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:43:01,377 [10492] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:43:01,377 [10492] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:43:01,378 [10492] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:43:01,378 [10492] INFO CateringInfoLog - 传入参数：
+03/19/14 23:43:01,378 [10492] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:43:01,379 [10492] WARN CateringInfoLog - code:3,msg:传入餐厅参数不存在,data:[],status:Warn
+03/19/14 23:43:01,380 [10492] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:43:01,380 [10492] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:43:01,381 [10492] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:43:01,381 [10492] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:43:01,381 [10492] INFO CateringInfoLog - 传入参数：
+03/19/14 23:43:01,381 [10492] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:43:01,382 [10492] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:43:01,382 [10492] INFO CateringInfoLog - start connect database
+03/19/14 23:43:01,382 [10492] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:43:01,382 [10492] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:43:01,383 [10492] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:43:01,394 [10492] INFO CateringInfoLog - finish connect database
+03/19/14 23:43:01,394 [10492] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 23:43:01,395 [10492] WARN CateringInfoLog - code:4,msg:获取菜色列表为空,data:[],status:Success
+03/19/14 23:43:54,793 [8744] INFO CateringInfoLog - start connect database
+03/19/14 23:43:54,794 [8744] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:43:54,795 [8744] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:43:54,795 [8744] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:43:54,797 [8744] INFO CateringInfoLog - finish connect database
+03/19/14 23:43:55,037 [8744] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:43:55,037 [8744] INFO CateringInfoLog - 
+03/19/14 23:43:55,037 [8744] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:43:55,038 [8744] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 23:43:55,054 [8744] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:43:55,055 [8744] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:43:55,055 [8744] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:43:55,056 [8744] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 23:43:55,056 [8744] INFO CateringInfoLog - 传入参数：
+03/19/14 23:43:55,056 [8744] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:43:55,057 [8744] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:43:55,057 [8744] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM  MERCHANT_LIST
+03/19/14 23:43:55,057 [8744] INFO CateringInfoLog - start connect database
+03/19/14 23:43:55,058 [8744] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:43:55,058 [8744] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:43:55,058 [8744] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:43:55,061 [8744] INFO CateringInfoLog - finish connect database
+03/19/14 23:43:55,062 [8744] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"},{"ID":"90002","NAME":"\u82f9\u679c\u5bb6\u56ed","PHONE":"15920455682","URL":null,"MARK":null}],status:Success
+03/19/14 23:43:55,068 [8744] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:43:55,069 [8744] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:43:55,069 [8744] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:43:55,069 [8744] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:43:55,070 [8744] INFO CateringInfoLog - 传入参数：
+03/19/14 23:43:55,070 [8744] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:43:55,070 [8744] WARN CateringInfoLog - code:3,msg:传入餐厅参数不存在,data:[],status:Warn
+03/19/14 23:43:55,072 [8744] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:43:55,072 [8744] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:43:55,072 [8744] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:43:55,073 [8744] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:43:55,073 [8744] INFO CateringInfoLog - 传入参数：
+03/19/14 23:43:55,073 [8744] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:43:55,074 [8744] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:43:55,074 [8744] INFO CateringInfoLog - start connect database
+03/19/14 23:43:55,074 [8744] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:43:55,075 [8744] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:43:55,075 [8744] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:43:55,077 [8744] INFO CateringInfoLog - finish connect database
+03/19/14 23:43:55,077 [8744] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 23:43:55,078 [8744] WARN CateringInfoLog - code:4,msg:获取菜色列表为空,data:[],status:Success
+03/19/14 15:46:33,822 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 15:46:33,830 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '90002',
+)
+03/19/14 15:46:33,839 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:46:33,847 [6848] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 15:46:33,854 [6848] INFO CateringInfoLog - 传入参数：
+03/19/14 15:46:33,862 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '90002',
+)
+03/19/14 15:46:33,870 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:46:33,878 [6848] INFO CateringInfoLog - start connect database
+03/19/14 15:46:33,886 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 15:46:33,893 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 15:46:33,900 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 15:46:33,910 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 15:46:33,918 [6848] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 15:46:33,928 [6848] WARN CateringInfoLog - code:4,msg:获取菜色列表为空,data:[],status:Success
+03/19/14 23:49:58,473 [12072] INFO CateringInfoLog - start connect database
+03/19/14 23:49:58,475 [12072] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:49:58,475 [12072] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:49:58,475 [12072] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:49:58,478 [12072] INFO CateringInfoLog - finish connect database
+03/19/14 23:49:58,635 [12072] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:49:58,635 [12072] INFO CateringInfoLog - 
+03/19/14 23:49:58,635 [12072] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:49:58,636 [12072] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 23:49:58,651 [12072] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:49:58,652 [12072] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:49:58,652 [12072] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:49:58,652 [12072] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 23:49:58,653 [12072] INFO CateringInfoLog - 传入参数：
+03/19/14 23:49:58,653 [12072] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:49:58,653 [12072] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:49:58,653 [12072] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM  MERCHANT_LIST
+03/19/14 23:49:58,654 [12072] INFO CateringInfoLog - start connect database
+03/19/14 23:49:58,654 [12072] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:49:58,654 [12072] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:49:58,654 [12072] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:49:58,657 [12072] INFO CateringInfoLog - finish connect database
+03/19/14 23:49:58,658 [12072] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"},{"ID":"90002","NAME":"\u82f9\u679c\u5bb6\u56ed","PHONE":"15920455682","URL":null,"MARK":null}],status:Success
+03/19/14 23:49:58,665 [12072] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:49:58,665 [12072] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:49:58,666 [12072] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:49:58,666 [12072] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:49:58,666 [12072] INFO CateringInfoLog - 传入参数：
+03/19/14 23:49:58,666 [12072] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:49:58,667 [12072] WARN CateringInfoLog - code:3,msg:传入餐厅参数不存在,data:[],status:Warn
+03/19/14 23:49:58,668 [12072] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:49:58,668 [12072] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:49:58,669 [12072] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:49:58,669 [12072] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:49:58,669 [12072] INFO CateringInfoLog - 传入参数：
+03/19/14 23:49:58,669 [12072] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:49:58,670 [12072] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:49:58,670 [12072] INFO CateringInfoLog - start connect database
+03/19/14 23:49:58,670 [12072] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:49:58,671 [12072] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:49:58,671 [12072] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:49:58,673 [12072] INFO CateringInfoLog - finish connect database
+03/19/14 23:49:58,674 [12072] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 23:49:58,676 [12072] WARN CateringInfoLog - code:4,msg:获取菜色列表为空,data:[],status:Success
+03/19/14 15:50:09,434 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 15:50:09,442 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '90002',
+)
+03/19/14 15:50:09,451 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:50:09,459 [6848] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 15:50:09,466 [6848] INFO CateringInfoLog - 传入参数：
+03/19/14 15:50:09,474 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '90002',
+)
+03/19/14 15:50:09,482 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:50:09,490 [6848] INFO CateringInfoLog - start connect database
+03/19/14 15:50:09,498 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 15:50:09,506 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 15:50:09,513 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 15:50:09,532 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 15:50:09,540 [6848] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 15:50:09,549 [6848] WARN CateringInfoLog - code:4,msg:获取菜色列表为空,data:[],status:Success
+03/19/14 15:50:10,766 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 15:50:10,775 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '90002',
+)
+03/19/14 15:50:10,783 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:50:10,791 [6848] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 15:50:10,799 [6848] INFO CateringInfoLog - 传入参数：
+03/19/14 15:50:10,806 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '90002',
+)
+03/19/14 15:50:10,815 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:50:10,823 [6848] INFO CateringInfoLog - start connect database
+03/19/14 15:50:10,830 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 15:50:10,838 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 15:50:10,845 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 15:50:10,855 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 15:50:10,863 [6848] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 15:50:10,872 [6848] WARN CateringInfoLog - code:4,msg:获取菜色列表为空,data:[],status:Success
+03/19/14 23:51:09,523 [8468] INFO CateringInfoLog - start connect database
+03/19/14 23:51:09,524 [8468] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:51:09,525 [8468] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:51:09,525 [8468] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:51:09,527 [8468] INFO CateringInfoLog - finish connect database
+03/19/14 23:51:09,839 [8468] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:51:09,839 [8468] INFO CateringInfoLog - 
+03/19/14 23:51:09,839 [8468] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:51:09,840 [8468] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 23:51:09,856 [8468] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:51:09,856 [8468] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:51:09,856 [8468] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:51:09,857 [8468] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 23:51:09,857 [8468] INFO CateringInfoLog - 传入参数：
+03/19/14 23:51:09,857 [8468] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:51:09,858 [8468] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:51:09,858 [8468] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM  MERCHANT_LIST
+03/19/14 23:51:09,858 [8468] INFO CateringInfoLog - start connect database
+03/19/14 23:51:09,858 [8468] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:51:09,859 [8468] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:51:09,859 [8468] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:51:09,861 [8468] INFO CateringInfoLog - finish connect database
+03/19/14 23:51:09,862 [8468] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"},{"ID":"90002","NAME":"\u82f9\u679c\u5bb6\u56ed","PHONE":"15920455682","URL":null,"MARK":null}],status:Success
+03/19/14 23:51:09,869 [8468] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:51:09,869 [8468] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:51:09,870 [8468] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:51:09,870 [8468] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:51:09,870 [8468] INFO CateringInfoLog - 传入参数：
+03/19/14 23:51:09,870 [8468] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:51:09,871 [8468] WARN CateringInfoLog - code:3,msg:传入餐厅参数不存在,data:[],status:Warn
+03/19/14 23:51:09,872 [8468] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:51:09,872 [8468] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:51:09,873 [8468] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:51:09,873 [8468] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:51:09,873 [8468] INFO CateringInfoLog - 传入参数：
+03/19/14 23:51:09,874 [8468] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:51:09,874 [8468] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:51:09,875 [8468] INFO CateringInfoLog - start connect database
+03/19/14 23:51:09,875 [8468] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:51:09,875 [8468] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:51:09,876 [8468] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:51:09,878 [8468] INFO CateringInfoLog - finish connect database
+03/19/14 23:51:09,878 [8468] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 23:51:09,879 [8468] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"id":"90001","phote":".\/dish_photo\/maixiangji_90001.","name":"\u82f9\u679c\u6d3e","price":"7\u5143"}],status:Success
+03/19/14 23:52:42,449 [12136] INFO CateringInfoLog - start connect database
+03/19/14 23:52:42,450 [12136] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:52:42,450 [12136] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:52:42,450 [12136] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:52:42,454 [12136] INFO CateringInfoLog - finish connect database
+03/19/14 23:52:42,800 [12136] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:52:42,800 [12136] INFO CateringInfoLog - 
+03/19/14 23:52:42,800 [12136] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:52:42,801 [12136] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 23:52:42,818 [12136] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:52:42,819 [12136] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:52:42,819 [12136] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:52:42,819 [12136] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 23:52:42,819 [12136] INFO CateringInfoLog - 传入参数：
+03/19/14 23:52:42,820 [12136] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:52:42,821 [12136] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:52:42,821 [12136] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM  MERCHANT_LIST
+03/19/14 23:52:42,821 [12136] INFO CateringInfoLog - start connect database
+03/19/14 23:52:42,822 [12136] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:52:42,822 [12136] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:52:42,822 [12136] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:52:42,825 [12136] INFO CateringInfoLog - finish connect database
+03/19/14 23:52:42,826 [12136] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"},{"ID":"90002","NAME":"\u82f9\u679c\u5bb6\u56ed","PHONE":"15920455682","URL":null,"MARK":null}],status:Success
+03/19/14 23:52:42,833 [12136] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:52:42,834 [12136] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:52:42,834 [12136] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:52:42,834 [12136] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:52:42,835 [12136] INFO CateringInfoLog - 传入参数：
+03/19/14 23:52:42,835 [12136] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:52:42,835 [12136] WARN CateringInfoLog - code:3,msg:传入餐厅参数不存在,data:[],status:Warn
+03/19/14 23:52:42,837 [12136] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:52:42,837 [12136] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:52:42,837 [12136] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:52:42,837 [12136] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:52:42,838 [12136] INFO CateringInfoLog - 传入参数：
+03/19/14 23:52:42,838 [12136] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:52:42,838 [12136] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:52:42,839 [12136] INFO CateringInfoLog - start connect database
+03/19/14 23:52:42,839 [12136] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:52:42,839 [12136] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:52:42,839 [12136] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:52:42,842 [12136] INFO CateringInfoLog - finish connect database
+03/19/14 23:52:42,842 [12136] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 23:52:42,844 [12136] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"id":"90001","phote":".\/dish_photo\/maixiangji_90001.","name":"\u82f9\u679c\u6d3e","price":"7\u5143"}],status:Success
+03/19/14 23:53:42,939 [10640] INFO CateringInfoLog - start connect database
+03/19/14 23:53:42,941 [10640] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:53:42,941 [10640] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:53:42,941 [10640] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:53:42,944 [10640] INFO CateringInfoLog - finish connect database
+03/19/14 23:53:43,145 [10640] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:53:43,145 [10640] INFO CateringInfoLog - 
+03/19/14 23:53:43,146 [10640] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:53:43,146 [10640] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 23:53:43,161 [10640] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:53:43,162 [10640] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:53:43,162 [10640] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:53:43,162 [10640] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 23:53:43,163 [10640] INFO CateringInfoLog - 传入参数：
+03/19/14 23:53:43,163 [10640] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:53:43,163 [10640] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:53:43,164 [10640] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM  MERCHANT_LIST
+03/19/14 23:53:43,164 [10640] INFO CateringInfoLog - start connect database
+03/19/14 23:53:43,164 [10640] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:53:43,165 [10640] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:53:43,165 [10640] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:53:43,167 [10640] INFO CateringInfoLog - finish connect database
+03/19/14 23:53:43,168 [10640] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"},{"ID":"90002","NAME":"\u82f9\u679c\u5bb6\u56ed","PHONE":"15920455682","URL":null,"MARK":null}],status:Success
+03/19/14 23:53:43,175 [10640] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:53:43,175 [10640] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:53:43,176 [10640] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:53:43,176 [10640] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:53:43,176 [10640] INFO CateringInfoLog - 传入参数：
+03/19/14 23:53:43,176 [10640] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:53:43,177 [10640] WARN CateringInfoLog - code:3,msg:传入餐厅参数不存在,data:[],status:Warn
+03/19/14 23:53:43,178 [10640] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:53:43,179 [10640] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:53:43,179 [10640] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:53:43,179 [10640] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:53:43,180 [10640] INFO CateringInfoLog - 传入参数：
+03/19/14 23:53:43,180 [10640] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:53:43,180 [10640] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:53:43,180 [10640] INFO CateringInfoLog - start connect database
+03/19/14 23:53:43,181 [10640] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:53:43,181 [10640] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:53:43,181 [10640] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:53:43,183 [10640] INFO CateringInfoLog - finish connect database
+03/19/14 23:53:43,184 [10640] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 23:53:43,185 [10640] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"id":"90001","phote":".\/dish_photo\/maixiangji_90001.","name":"\u82f9\u679c\u6d3e","price":"7\u5143"}],status:Success
+03/19/14 23:54:07,744 [10624] INFO CateringInfoLog - start connect database
+03/19/14 23:54:07,746 [10624] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:54:07,746 [10624] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:54:07,746 [10624] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:54:07,749 [10624] INFO CateringInfoLog - finish connect database
+03/19/14 23:54:07,952 [10624] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:54:07,952 [10624] INFO CateringInfoLog - 
+03/19/14 23:54:07,953 [10624] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:54:07,953 [10624] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 23:54:07,968 [10624] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:54:07,969 [10624] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:54:07,969 [10624] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:54:07,969 [10624] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 23:54:07,970 [10624] INFO CateringInfoLog - 传入参数：
+03/19/14 23:54:07,970 [10624] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:54:07,970 [10624] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:54:07,970 [10624] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM  MERCHANT_LIST
+03/19/14 23:54:07,971 [10624] INFO CateringInfoLog - start connect database
+03/19/14 23:54:07,971 [10624] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:54:07,971 [10624] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:54:07,971 [10624] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:54:07,974 [10624] INFO CateringInfoLog - finish connect database
+03/19/14 23:54:07,975 [10624] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"},{"ID":"90002","NAME":"\u82f9\u679c\u5bb6\u56ed","PHONE":"15920455682","URL":null,"MARK":null}],status:Success
+03/19/14 23:54:07,982 [10624] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:54:07,982 [10624] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:54:07,983 [10624] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:54:07,983 [10624] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:54:07,983 [10624] INFO CateringInfoLog - 传入参数：
+03/19/14 23:54:07,984 [10624] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:54:07,984 [10624] WARN CateringInfoLog - code:3,msg:传入餐厅参数不存在,data:[],status:Warn
+03/19/14 23:54:07,985 [10624] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:54:07,986 [10624] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:54:07,986 [10624] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:54:07,986 [10624] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:54:07,986 [10624] INFO CateringInfoLog - 传入参数：
+03/19/14 23:54:07,987 [10624] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:54:07,987 [10624] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:54:07,987 [10624] INFO CateringInfoLog - start connect database
+03/19/14 23:54:07,988 [10624] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:54:07,988 [10624] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:54:07,988 [10624] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:54:07,990 [10624] INFO CateringInfoLog - finish connect database
+03/19/14 23:54:07,991 [10624] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 23:54:07,992 [10624] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"id":"90001","phote":".\/dish_photo\/maixiangji_90001.","name":"\u82f9\u679c\u6d3e","price":"7\u5143"}],status:Success
+03/19/14 23:54:07,995 [10624] INFO CateringInfoLog - start connect database
+03/19/14 23:54:07,996 [10624] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:54:07,996 [10624] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:54:07,996 [10624] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:54:07,998 [10624] INFO CateringInfoLog - finish connect database
+03/19/14 23:55:25,700 [6120] INFO CateringInfoLog - start connect database
+03/19/14 23:55:25,701 [6120] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:55:25,701 [6120] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:55:25,701 [6120] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:55:25,704 [6120] INFO CateringInfoLog - finish connect database
+03/19/14 23:55:25,914 [6120] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:55:25,914 [6120] INFO CateringInfoLog - 
+03/19/14 23:55:25,915 [6120] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:55:25,915 [6120] WARN CateringInfoLog - code:404,msg:传入路由为空,data:[],status:Warn
+03/19/14 23:55:25,931 [6120] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:55:25,931 [6120] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:55:25,931 [6120] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:55:25,932 [6120] INFO CateringInfoLog - ===================getAllCateringInfo_func begin=====================
+03/19/14 23:55:25,932 [6120] INFO CateringInfoLog - 传入参数：
+03/19/14 23:55:25,932 [6120] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getAllCateringInfo',
+)
+03/19/14 23:55:25,932 [6120] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:55:25,933 [6120] INFO CateringInfoLog - SELECT ID,NAME,PHONE,URL,MARK FROM  MERCHANT_LIST
+03/19/14 23:55:25,933 [6120] INFO CateringInfoLog - start connect database
+03/19/14 23:55:25,933 [6120] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:55:25,934 [6120] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:55:25,934 [6120] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:55:25,936 [6120] INFO CateringInfoLog - finish connect database
+03/19/14 23:55:25,937 [6120] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"ID":"1","NAME":"sunkuo","PHONE":"13826480235","URL":null,"MARK":null},{"ID":"2","NAME":"\u9ea6\u5f53\u5f53","PHONE":"15920455682","URL":null,"MARK":"2"},{"ID":"90002","NAME":"\u82f9\u679c\u5bb6\u56ed","PHONE":"15920455682","URL":null,"MARK":null}],status:Success
+03/19/14 23:55:25,945 [6120] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:55:25,945 [6120] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:55:25,945 [6120] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:55:25,946 [6120] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:55:25,946 [6120] INFO CateringInfoLog - 传入参数：
+03/19/14 23:55:25,946 [6120] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+)
+03/19/14 23:55:25,946 [6120] WARN CateringInfoLog - code:3,msg:传入餐厅参数不存在,data:[],status:Warn
+03/19/14 23:55:25,948 [6120] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 23:55:25,948 [6120] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:55:25,948 [6120] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:55:25,949 [6120] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 23:55:25,949 [6120] INFO CateringInfoLog - 传入参数：
+03/19/14 23:55:25,949 [6120] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => 90002,
+)
+03/19/14 23:55:25,950 [6120] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 23:55:25,950 [6120] INFO CateringInfoLog - start connect database
+03/19/14 23:55:25,950 [6120] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 23:55:25,950 [6120] INFO CateringInfoLog - db user name:superCatering
+03/19/14 23:55:25,951 [6120] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 23:55:25,953 [6120] INFO CateringInfoLog - finish connect database
+03/19/14 23:55:25,953 [6120] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 23:55:25,955 [6120] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"id":"90001","phote":".\/dish_photo\/maixiangji_90001.","name":"\u82f9\u679c\u6d3e","price":"7\u5143"}],status:Success
+03/19/14 15:55:32,555 [6848] INFO CateringInfoLog - ===================CateringInfo_Route begin=====================
+03/19/14 15:55:32,563 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '90002',
+)
+03/19/14 15:55:32,572 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:55:32,580 [6848] INFO CateringInfoLog - ===================getCateringInfo_func begin=====================
+03/19/14 15:55:32,587 [6848] INFO CateringInfoLog - 传入参数：
+03/19/14 15:55:32,595 [6848] INFO CateringInfoLog - array (
+  'route' => 'CateringInfo/getCateringInfo',
+  'cateringId' => '90002',
+)
+03/19/14 15:55:32,604 [6848] WARN CateringInfoLog - code:1,msg:操作失败!,data:[],status:Warn
+03/19/14 15:55:32,612 [6848] INFO CateringInfoLog - start connect database
+03/19/14 15:55:32,619 [6848] INFO CateringInfoLog - connect host:mysql:host=127.0.0.1;port=3306;dbname=superCatering;charset=UTF8
+03/19/14 15:55:32,627 [6848] INFO CateringInfoLog - db user name:superCatering
+03/19/14 15:55:32,635 [6848] INFO CateringInfoLog - db user pwd:4superCatering
+03/19/14 15:55:32,645 [6848] INFO CateringInfoLog - finish connect database
+03/19/14 15:55:32,652 [6848] INFO CateringInfoLog - SELECT id,phote,name,price FROM  v_dish_merchant_list WHERE MERCHANT_ID='90002'
+03/19/14 15:55:32,662 [6848] INFO CateringInfoLog - code:0,msg:获取成功,data:[{"id":"90001","phote":".\/dish_photo\/maixiangji_90001.","name":"\u82f9\u679c\u6d3e","price":"7\u5143"}],status:Success
