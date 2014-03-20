@@ -13,6 +13,7 @@ include_once dirname(__FILE__) .'/../../common/dbConn.php';
 class TestCateringInfo extends PHPUnit_Framework_TestCase{
 
     protected function setUp(){
+        TestCateringInfo::tearDownData();
         $q_pdo=connectDatabase();
         $initSql="INSERT INTO merchant_list (id, name, phone,url, mark) VALUES (2, '麦当当', '15920455682',null, '2')";
         $q_pdo->exec($initSql);
@@ -25,6 +26,7 @@ class TestCateringInfo extends PHPUnit_Framework_TestCase{
     }
 
     function testRequestSolve(){
+
         $body=array();
         $expect=array("code"=>404,"msg"=>"传入路由为空","data"=>[],"status"=>"Warn");
         $result=CateringInfo_Route($body);
@@ -49,6 +51,36 @@ class TestCateringInfo extends PHPUnit_Framework_TestCase{
         $expect=array("code"=>0,"msg"=>"获取成功","data"=>$expectData,"status"=>"Success");
         $result=CateringInfo_Route($body);
         $this->assertEquals($expect,$result,"获取菜色成功用例");
+
+        $body=array("route"=>"CateringInfo/collectCatering");
+        $expect=array("code"=>3,"msg"=>"传入餐厅参数不存在","data"=>[],"status"=>"Warn");
+        $result=CateringInfo_Route($body);
+        $this->assertEquals($expect,$result,"传入餐厅参数不存在用例");
+
+        $body=array("route"=>"CateringInfo/collectCatering","cateringId"=>90002);
+        $expect=array("code"=>8,"msg"=>"传入用户参数不存在","data"=>[],"status"=>"Warn");
+        $result=CateringInfo_Route($body);
+        $this->assertEquals($expect,$result,"传入用户参数不存在");
+
+        $body=array("route"=>"CateringInfo/collectCatering","cateringId"=>90002,"userId"=>900001);
+        $expect=array("code"=>0,"msg"=>"收藏成功","data"=>[],"status"=>"Success");
+        $result=CateringInfo_Route($body);
+        $this->assertEquals($expect,$result,"收藏成功用例");
+
+        $body=array("route"=>"CateringInfo/orderRecord");
+        $expect=array("code"=>3,"msg"=>"传入餐厅参数不存在","data"=>[],"status"=>"Warn");
+        $result=CateringInfo_Route($body);
+        $this->assertEquals($expect,$result,"传入餐厅参数不存在用例");
+
+        $body=array("route"=>"CateringInfo/orderRecord","cateringId"=>90002);
+        $expect=array("code"=>8,"msg"=>"传入用户参数不存在","data"=>[],"status"=>"Warn");
+        $result=CateringInfo_Route($body);
+        $this->assertEquals($expect,$result,"传入用户参数不存在");
+
+        $body=array("route"=>"CateringInfo/orderRecord","cateringId"=>90002,"userId"=>900001);
+        $expect=array("code"=>0,"msg"=>"记录成功","data"=>[],"status"=>"Success");
+        $result=CateringInfo_Route($body);
+        $this->assertEquals($expect,$result,"记录成功用例");
         TestCateringInfo::tearDownData();
     }
 
@@ -60,6 +92,10 @@ class TestCateringInfo extends PHPUnit_Framework_TestCase{
         $q_pdo->exec($delSql1);
         $delSql3="DELETE FROM merchant_dish_relation WHERE merchant_id in(90002)";
         $q_pdo->exec($delSql3);
+        $delSql4="DELETE FROM like_relation WHERE merchant_id in(90002)";
+        $q_pdo->exec($delSql4);
+        $delSql5="DELETE FROM purchase_list WHERE merchant_id in(90002)";
+        $q_pdo->exec($delSql5);
     }
 
 }
